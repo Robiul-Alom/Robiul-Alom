@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="Robiul alom.jpg"/>
+
 **Robiul-Alom/Robiul-Alom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
